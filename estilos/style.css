@@ -92,12 +92,12 @@ div#campo > span {
 
 div#campo > input {
     font-size: 1em;
-    width: calc(100% - 45.5px);
-    height: 100%;
+    width: calc(100% - 46px);
+    height: 90%;
    
     border: 0px;
     border-radius: 8px;
-    padding: 4px;
+    padding: 1px;
     transform: translateY(-8px);
 
 }
