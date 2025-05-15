@@ -71,11 +71,11 @@ div#formulario > p {
 
 form > div#campo {
     background-color: rgb(177, 179, 179);
-    border: 2px solid darkgrey;
+    border: 1px solid darkgrey;
     display: block;
     width: 100%;
-    height: 42px;
-    border-radius: 8px;
+    height: 50px;
+    border-radius: 10px;
     margin: 5px 0px;
 }
 
@@ -87,18 +87,18 @@ div#campo > span {
     color: white;
     font-size: 2em;
     width: 40px;
-    padding: 5px;
+    padding: 4px;
 }
 
 div#campo > input {
     font-size: 1em;
     width: calc(100% - 46px);
-    height: 100%;
+    height: 90%;
    
     border: none;
-    border-radius: 8px;
+    border-radius: 10px;
     padding: 4px;
-    transform: translateY(-18px);
+    transform: translateY(-11.5px);
 
 }
 
