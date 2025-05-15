@@ -82,11 +82,10 @@ div.campo > label {
 }
 
 div.campo > span { 
-    color: rgb(255, 255, 255);
+    background-color: rgb(117, 204, 82);
+    color: rgb(0, 0, 0);
     font-size: 2em;
     width: 40px;
-    padding: 7px;
-    
 }
 
 div.campo > input {
@@ -96,7 +95,7 @@ div.campo > input {
     border: 0px;
     border-radius: 8px;
     padding: 4px;
-    transform: translateY(-21px);
+    transform: translateY(-14px);
 
 }
 
