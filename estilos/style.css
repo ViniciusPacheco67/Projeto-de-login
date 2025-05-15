@@ -36,8 +36,8 @@ section#login {
 
     
     background-color: white;
-    width: 280px;
-    height: 580px;
+    width: 250px;
+    height: 550px;
     border-radius: 20px; 
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.623);
      
@@ -51,7 +51,7 @@ section#login > div#imagem {
     background: url(../imagens/pexels-armandobel.jpg)center no-repeat;
     background-size: cover;
     background-position: center center;
-    height: 250px;
+    height: 200px;
 }
 
 section#login > div#formulario {
@@ -70,6 +70,7 @@ div#formulario > p {
 }
 
 form > div.campo {
+    display: block;
     background-color: rgb(177, 179, 179);
     border: 2px solid rgb(177, 179, 179);
     display: block;
@@ -87,6 +88,7 @@ div.campo > span {
     color: white;
     font-size: 2em;
     width: 40px;
+    padding: 5px;
 }
 
 div.campo > input {
@@ -94,10 +96,10 @@ div.campo > input {
     width: calc(100% - 46px);
     height: 100%;
    
-    border: none;
+    border: 0px;
     border-radius: 8px;
-    padding: 4px;
-    transform: translateY(-14px);
+    padding: 5px;
+    transform: translateY(-19px);
 
 }
 
@@ -115,7 +117,6 @@ form > input[type=submit] {
     border: none;
     border-radius: 8px;
     cursor: pointer;
-
 }
 
 form > input[type=submit]:hover {
@@ -133,6 +134,7 @@ form > a.botao {
      border: 1px solid rgba(0, 0, 0, 0.705);
      border-radius: 8px;
      text-decoration: none;
+     padding: 5px;
 }
 
 form > a.botao:hover {
