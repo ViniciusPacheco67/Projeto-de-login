@@ -82,15 +82,15 @@ div.campo > label {
 }
 
 div.campo > span { 
-    background-color: rgb(117, 204, 82);
-    color: rgb(0, 0, 0);
+    
+    color: rgb(255, 255, 255);
     font-size: 2em;
-    width: 40px;
+    width: 45px;
 }
 
 div.campo > input {
     font-size: 1em;
-    width: calc(100% - 46px);
+    width: calc(100% - 55px);
     height: 100%;
     border: 0px;
     border-radius: 8px;
