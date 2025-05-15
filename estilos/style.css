@@ -36,8 +36,8 @@ section#login {
 
     
     background-color: white;
-    width: 250px;
-    height: 550px;
+    width: 285px;
+    height: 540px;
     border-radius: 20px; 
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.623);
      
@@ -70,7 +70,6 @@ div#formulario > p {
 }
 
 form > div.campo {
-    display: block;
     background-color: rgb(177, 179, 179);
     border: 2px solid rgb(177, 179, 179);
     display: block;
@@ -85,21 +84,21 @@ div.campo > label {
 }
 
 div.campo > span {
-    color: white;
-    font-size: 2em;
+    color: rgba(255, 255, 255, 0.685);
+    font-size: 1.8em;
     width: 40px;
     padding: 5px;
 }
 
 div.campo > input {
     font-size: 1em;
-    width: calc(100% - 46px);
+    width: calc(100% - 47px);
     height: 100%;
    
     border: 0px;
     border-radius: 8px;
-    padding: 5px;
-    transform: translateY(-19px);
+    padding: 4px;
+    transform: translateY(-15px);
 
 }
 
