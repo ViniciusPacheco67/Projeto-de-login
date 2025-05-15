@@ -81,8 +81,7 @@ div.campo > label {
     display: none;
 }
 
-div.campo > span {
-   
+div.campo > span { 
     color: rgb(255, 255, 255);
     font-size: 2em;
     width: 40px;
