@@ -77,6 +77,7 @@ form > div.campo {
     height: 40px;
     border-radius: 8px;
     margin: 5px 0px;
+    border-bottom: 2px solid rgb(177, 179, 179);
 }
 
 div.campo > label {
@@ -85,20 +86,20 @@ div.campo > label {
 
 div.campo > span {
     color: rgba(255, 255, 255, 0.685);
-    font-size: 1.8em;
-    width: 40px;
+    font-size: 2em;
+    width: 38px;
     padding: 5px;
 }
 
 div.campo > input {
     font-size: 1em;
-    width: calc(100% - 47px);
-    height: 100%;
+    width: calc(100% - 46px);
+    height: 98%;
    
     border: 0px;
     border-radius: 8px;
     padding: 4px;
-    transform: translateY(-15px);
+    transform: translateY(-18px);
 
 }
 
@@ -130,10 +131,10 @@ form > a.botao {
      height: 40px;
      background-color: rgb(255, 255, 255);
      color: rgb(102, 108, 114);
-     border: 1px solid rgba(0, 0, 0, 0.705);
+     border: 1px solid rgb(143, 140, 140);
      border-radius: 8px;
      text-decoration: none;
-     padding: 5px;
+     padding: 8px;
 }
 
 form > a.botao:hover {
