@@ -83,9 +83,9 @@ div.campo > label {
 
 div.campo > span { 
     color: rgb(255, 255, 255);
-    font-size: 40px;
+    font-size: 38px;
     width: 40px;
-    padding: 0px;
+    padding: 2px;
 }
 
 div.campo > input {
