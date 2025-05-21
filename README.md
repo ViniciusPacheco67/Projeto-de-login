@@ -1,4 +1,4 @@
-Óla eu sou VCinicius Pacheco e esse e um dos meus trabalhos de programação 
+Óla eu sou Vinicius Pacheco e esse e um dos meus trabalhos de programação 
 Esse projeto eu construi ele usando HTML e CSS basicos
 # Projeto-login
 projeto tela de login
